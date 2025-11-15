@@ -1,0 +1,8 @@
+# https://github.com/mikedh/trimesh
+
+newmtl Texture
+Ka 0.40000000 0.40000000 0.40000000
+Kd 0.40000000 0.40000000 0.40000000
+Ks 0.50196078 0.50196078 0.50196078
+Ns 1.00000000
+map_Kd Texture.png
